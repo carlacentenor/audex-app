@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "omnes-medium";
+    src: url("../../assets/fonts/Omnes-Medium.otf");
+}
+
+@font-face {
+    font-family: "omnes-regular";
+    src: url("../../assets/fonts/Omnes_Regular.ttf");
+}
+
+@font-face {
+    font-family: "omnes-semibold";
+    src: url("../../assets/fonts/omnes-semibold-webfont.ttf");
+}
+
+@font-face {
+    font-family: "omnes-bold";
+    src: url("../../assets/fonts/Omnes-Bold.otf");
+}
+
+// Variables Fonts
+
+$omnes-bold:omnes-bold;
+$omnes-light:omnes-light;
+$omnes-regular: omnes-regular;
+$omnes-medium:omnes-medium;
+$omnes-semibold:omnes-semibold;
+
+
+//colors
+
+$gray-2: #7e7e7e;
+$gray-ngr:#978B82

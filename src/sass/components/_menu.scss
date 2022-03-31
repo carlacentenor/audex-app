@@ -1,0 +1,40 @@
+.panel{
+    background-color: #2A3F54;
+}
+
+.conector ::before{
+    background: #425668;
+    bottom: auto;
+    content: "";
+    height: 8px;
+    left: 23px;
+    margin-top: 15px;
+    position: absolute;
+    right: auto;
+    width: 8px;
+    z-index: 1;
+    border-radius: 50%;
+}
+
+.p-panelmenu .p-panelmenu-header > a{
+    background: transparent !important;
+    border: none;
+    color: #E7E7E7 !important;
+    font-family: $omnes-regular;
+    font-size: 13px;
+}
+
+.p-panelmenu .p-panelmenu-content{
+    background: transparent !important;
+    
+}
+.p-panelmenu .p-panelmenu-content .p-menuitem .p-menuitem-link .p-menuitem-text{
+    color: #E7E7E7 !important;
+    font-family: $omnes-regular;
+    font-size: 13px;
+}
+
+.p-menuitem-text::before{
+  
+
+}	
